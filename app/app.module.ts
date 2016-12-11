@@ -1,6 +1,6 @@
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { UserService }      from './model';
 import { AppComponent }  from './app.component';
 
 @NgModule({
